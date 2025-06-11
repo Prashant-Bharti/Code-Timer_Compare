@@ -1,11 +1,11 @@
-# 🚀 Code Execution Timer & Comparator
+#  Code Execution Timer & Comparator
 
 This is a web-based tool that lets you:
 
-- ⌨️ Paste and run multiple **C++ code snippets**.
-- ⏱️ Measure and display the **execution time** of each snippet.
-- 📊 Visually **compare run-times** with a dynamic **bar chart**.
-- ➕ Add more codes using a **Compare** button and view all outputs together.
+-  Paste and run multiple **C++ code snippets**.
+-  Measure and display the **execution time** of each snippet.
+-  Visually **compare run-times** with a dynamic **bar chart**.
+-  Add more codes using a **Compare** button and view all outputs together.
 
 ---
 
